@@ -1,0 +1,16 @@
+remote_theme: pages-themes/time-machine@v0.2.0
+
+plugins:
+  - jekyll-remote-theme
+
+title: "Anjali Versha"
+
+description: >
+  Aspiring Data Scientist with hands-on experience in Python, Machine Learning,
+  SQL, Data Visualization, and Deep Learning. Built multiple predictive and
+  classification projects including Human Activity Recognition, Employee Performance
+  Analysis, Vaccine Prediction, and PUBG Winner Prediction using ML/DL techniques.
+
+show_downloads: false
+github:
+  is_project_page: false
