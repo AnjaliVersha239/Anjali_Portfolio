@@ -128,13 +128,6 @@ Developed a regression model to predict PUBG match rankings using gameplay stati
 
 ---
 
-# Contact
-- Email: anjaliversha23@gmail.com
-- Location: Chennai, Tamil Nadu
-- LinkedIn: linkedin.com/company/faangpath
-
----
-
 # Roles & Responsibilities
 - Performed data preprocessing, EDA, and visualization using Python libraries
 - Built and evaluated Machine Learning and Deep Learning models
@@ -142,3 +135,10 @@ Developed a regression model to predict PUBG match rankings using gameplay stati
 - Generated insights using data visualization and analytics
 
 ```
+
+# Contact
+- Email: anjaliversha23@gmail.com
+- Location: Chennai, Tamil Nadu
+- LinkedIn: linkedin.com/company/faangpath
+
+---
