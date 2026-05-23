@@ -134,7 +134,7 @@ Developed a regression model to predict PUBG match rankings using gameplay stati
 - Applied feature engineering and model optimization techniques
 - Generated insights using data visualization and analytics
 
-```
+---
 
 # Contact
 - Email: anjaliversha23@gmail.com
