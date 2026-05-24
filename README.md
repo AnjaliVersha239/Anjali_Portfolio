@@ -137,9 +137,10 @@ Developed a regression model to predict PUBG match rankings using gameplay stati
 ---
 
 # Contact
-- Email: anjaliversha23@gmail.com
-- Location: Chennai, Tamil Nadu
-- LinkedIn: linkedin.com/company/faangpath
-- GitHub: https://github.com/AnjaliVersha239
+
+- 📧 Email: [anjaliversha23@gmail.com](mailto:anjaliversha23@gmail.com)
+- 📍 Location: Chennai, Tamil Nadu
+- 💼 LinkedIn: [linkedin.com/company/faangpath](https://www.linkedin.com/company/faangpath/)
+- 💻 GitHub: [github.com/AnjaliVersha239](https://github.com/AnjaliVersha239)
 
 ---
